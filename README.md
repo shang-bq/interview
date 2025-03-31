@@ -26,7 +26,7 @@
 
 ## 📑 目录
 
-* [➕ C/C++](#cc)
+* [➕ C/C++](#cc)   关于初始化列表理解不够，主要在于标准库的理解
 * [⭐️ Effective](#effective)
 * [📦 STL](#stl)
 * [〽️ 数据结构](#data-structure)
